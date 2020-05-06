@@ -1670,7 +1670,11 @@ The unfixed/unfixable vulnerabilities mean that the patch has not yet been provi
 
 | OS                           | Supported Versions                       | Target Packages               | Detection of unfixed vulnerabilities |
 | ---------------------------- | ---------------------------------------- | ----------------------------- | :----------------------------------: |
+<<<<<<< HEAD
 | Alpine Linux                 | 2.2 - 2.7, 3.0 - 3.12                    | Installed by apk              |                  NO                  |
+=======
+| Alpine Linux                 | 2.2 - 2.7, 3.0 - 3.11                         | Installed by apk              |                  NO                  |
+>>>>>>> Fix non-essential formatting indents on the release table
 | Red Hat Universal Base Image | 7, 8                                     | Installed by yum/rpm          |                 YES                  |
 | Red Hat Enterprise Linux     | 6, 7, 8                                  | Installed by yum/rpm          |                 YES                  |
 | CentOS                       | 6, 7                                     | Installed by yum/rpm          |                 YES                  |
